@@ -1,0 +1,7 @@
+discord-bot:
+  enabled: true
+  token: ""
+  botCommand: "."
+  watching: "the minecraft server"
+  crossChatEnabled: true
+  defaultChannelID: ""

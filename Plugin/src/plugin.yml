@@ -1,0 +1,30 @@
+main: me.ix.icks.Main
+name: IcksGenerals
+version: 0.5
+author: ix
+api-version: 1.16
+depend: [mcMMO]
+
+commands:
+  Icks:
+  Nick:
+  RealName:
+  Home:
+  Homes:
+  SetHome:
+  DelHome:
+  Spawn:
+  Rules:
+  Trash:
+  Bin:
+  EChest:
+  Enderchest:
+  Craft:
+  InvSee:
+  TPA:
+  TPACCEPT:
+  Rename:
+  Performance:
+  Hand:
+  Block:
+  Commands:
